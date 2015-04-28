@@ -1,0 +1,58 @@
+
+{
+    "messageinfo": [
+            {
+               "id":"01","title":"微付宝","url":"http://www.uenpay.com","tellphone":"400-626-9987","weibo":"http://m.weibo.cn/u/3685385841","weibodenglu":"http://m.weibo.cn/3962891210","weixindecp":"没有做不到，只有想不到，最好用的手机刷卡器——微付宝手机Pos，移动互联网时代的刷卡利器，快来围观！！www.uenpay.com","lstp":"3.临调交易需要保留交易凭证并发送至marketing@uenpay.com，以供审核.","gxname":"上海尤恩信息技术有限公司","wxappId":"wx68a172395231fef5","version":"1.4"
+            },
+              {
+              "id":"02","title":"畅意汇","url":"http://www.jwpal.com","tellphone":"400-055-9535","weibo":"http://weibo.com/u/3962891210","weibodenglu":"http://m.weibo.cn/3962891210","weixindecp":"我在用畅意汇刷卡器收款，见证移动互联网刷卡时代的到来","lstp":"3.临调交易需要保留交易凭证并发送至cyh@jwpal.com，以供审核.","gxname":"尤银（上海）金融服务有限公司","wxappId":"wx0ed197049820ceea","version":"1.0"
+                    },
+                    {
+                    "id":"03","title":"携宝通","url":"http://www.xiebaoshua.com","tellphone":"400-905-7148","weibo":"http://weibo.com/u/3962891210","weibodenglu":"http://weibo.com/398918416","weixindecp":"我在用携宝通刷卡器收款，见证移动互联网刷卡时代的到来","lstp":"3.临调交易需要保留交易凭证并发送至xbkjxbs@163.com，以供审核.","gxname":"杭州携宝科技有限公司","wxappId":"wxd78bd6280154ddbd","version":"1.0"
+                    },
+                    {
+                    "id":"04","title":"挥付商务","url":"www.hfpay.net","tellphone":"400-050-6917","weibo":"http://weibo.com/u/3962891210","weibodenglu":"http://weibo.com/398918416","weixindecp":"我在用挥付刷卡器收款，见证移动互联网刷卡时代的到来","lstp":"3.临调交易需要保留交易凭证并发送至hfpay01@163.com，以供审核.","gxname":"挥卡（上海）金融信息服务有限公司","wxappId":"wxd78bd6280154ddbd","version":"1.0"
+                    }
+                    ,
+                    {
+                    "id":"05","title":"华付宝","url":"http://www.szbftpay.com","tellphone":"400-993-3630","weibo":"http://www.1743184736@qq.com","weibodenglu":"http://www.1743184736@qq.com","weixindecp":"我在用华付宝刷卡器收款，见证移动互联网刷卡时代的到来","lstp":"3.临调交易需要保留交易凭证并发送至1743184736@qq.com，以供审核.","gxname":"深圳便付通信息服务有限公司","wxappId":"wxd78bd6280154ddbd1","version":"1.0"
+                    }
+                    ,
+                    {
+                    "id":"06","title":"米付宝","url":"http://www.mfpal.com","tellphone":"400-030-2628","weibo":"暂未开放","weibodenglu":"暂未开放","weixindecp":"我在用米付宝卡器收款，见证移动互联网刷卡时代的到来","lstp":"3.临调交易需要保留交易凭证并发送至，以供审核.","gxname":"日凯（上海）信息金融服务有限公司","wxappId":"wxd78bd6280154ddbd1","version":"1.0"
+                    }
+                    ,
+                    {
+                    "id":"07","title":"联迅支付","url":"http://www.szlxpay.com","tellphone":"400-993-3130","weibo":"暂未开放","weibodenglu":"暂未开放","weixindecp":"我在用联迅支付卡器收款，见证移动互联网刷卡时代的到来","lstp":"3.临调交易需要保留交易凭证并发送至5288650@qq.com，以供审核.","gxname":"深圳市恒立远科技有限公司","wxappId":"wxd78bd6280154ddbd1","version":"1.0"
+                    }
+                    ,
+                    {
+                    "id":"08","title":"诺支付","url":"www.daonuopay.com","tellphone":"400-872-0777","weibo":"暂未开放","weibodenglu":"暂未开放","weixindecp":"我在用诺支付卡器收款，见证移动互联网刷卡时代的到来","lstp":"3.临调交易需要保留交易凭证并发送至huangxiaomin@daonuo.com.cn，以供审核.","gxname":"济南道诺信息技术有限公司","wxappId":"wxd78bd6280154ddbd1","version":"1.0"
+                    }
+                    ,
+                    {
+                    "id":"09","title":"翼付","url":"http://www.efu8.cn","tellphone":"400-808-0558","weibo":"http://www.51vsd.com","weibodenglu":"暂未开放","weixindecp":"我在用翼付卡器收款，见证移动互联网刷卡时代的到来","lstp":"3.临调交易需要保留交易凭证并发送至efu8＠qq.com，以供审核.","gxname":"上海尤恩信息技术有限公司","wxappId":"wxd78bd6280154ddbd1","version":"1.0"
+                    }
+                    ,
+                    {
+                    "id":"10","title":"华夏支付","url":"www.huaxiazhifu.com","tellphone":"400-888-3458","weibo":"http://t.qq.com/huaxiazhifu","weibodenglu":"http://t.qq.com/huaxiazhifu","weixindecp":"我在用华夏支付刷卡器收款，见证移动互联网刷卡时代的到来","lstp":"3.临调交易需要保留交易凭证并发送至huaxiazhifu@vip.qq.com，以供审核.","gxname":"上海畅天数码科技有限公司","wxappId":"wxd78bd6280154ddbd1","version":"1.0"
+                    }
+                    ,
+                    {
+                    "id":"11","title":"万邦汇通","url":"http://www.wanbanght.com","tellphone":"400-076-1366","weibo":"暂未开通","weibodenglu":"暂未开通","weixindecp":"移动金融支付的领航者","lstp":"3.临调交易需要保留交易凭证并发送至309241671@qq.com，以供审核.","gxname":"万邦汇通科技有限公司","wxappId":"wxd78bd6280154ddbd1","version":"1.0"
+                    }
+                    ,
+                    {
+                    "id":"12","title":"华夏神龙","url":"http://www.huaxiazhifu.com ","tellphone":"400-888-3458","weibo":"暂未开通","weibodenglu":"暂未开通","weixindecp":"华夏支付，伴您行天下","lstp":"3.临调交易需要保留交易凭证并发送至huaxiazhifu@vip.qq.com，以供审核.","gxname":"上海畅天数码科技有限公司","wxappId":"wxd78bd6280154ddbd1"
+                    }
+                    ,
+                    {
+                    "id":"13","title":"IPOS","url":"http://www.dycf.cn","tellphone":"4008-770-888","weibo":"暂未开通","weibodenglu":"暂未开通","weixindecp":"移动金融 便捷生活","lstp":"3.临调交易需要保留交易凭证并发送至，以供审核.","gxname":"上海大银电子商务有限公司","wxappId":"wxd78bd6280154ddbd1","version":"1.0"
+                    }
+                    ,
+                    {
+                    "id":"14","title":"银付通","url":"www.posany.com","tellphone":"400-9966-297","weibo":"","weibodenglu":"","weixindecp":"我在用惠支付收款，见证移动互联网刷卡时代的到来","lstp":"3.临调交易需要保留交易凭证并发送至gfy@70pay.cn，以供审核.","gxname":"苏州银付通信息科技有限公司","wxappId":"wxd78bd6280154ddbd","version":"1.0"
+                    }
+                    
+              ]
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>745AFE37-8F19-4FF3-AE72-E1DB5CC303CD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MiniPay</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>a1d16767-56b2-4804-bf24-3f64c907d1d5++5185</key>
+		<string>http://dev.chejixing.com.cn/repos/chejixing/allen</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MiniPay/MiniPay.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>a1d16767-56b2-4804-bf24-3f64c907d1d5++5185</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>a1d16767-56b2-4804-bf24-3f64c907d1d5++5185</key>
+		<string>http://dev.chejixing.com.cn/repos/chejixing</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://dev.chejixing.com.cn/repos/chejixing/allen/MiniPay/MiniPay.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>a1d16767-56b2-4804-bf24-3f64c907d1d5++5185</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>a1d16767-56b2-4804-bf24-3f64c907d1d5++5185</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>a1d16767-56b2-4804-bf24-3f64c907d1d5++5185</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>a1d16767-56b2-4804-bf24-3f64c907d1d5++5185</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

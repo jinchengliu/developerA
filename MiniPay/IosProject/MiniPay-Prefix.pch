@@ -1,0 +1,26 @@
+//
+// Prefix header for all source files of the 'IosProject' target in the 'IosProject' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "UtilsDefine.h"
+    #import "TextSizeDefine.h"
+    #import "FrameDefine.h"
+    #import "ImageDefine.h"
+    #import "YMTableViewController.h"
+    #import "YMViewController.h"
+    #import "TextDefine.h"
+    #import "CommonUtil.h"
+    #import "ValueUtils.h"
+    #import "YMTradeBaseController.h"
+#endif
+
+#import "AppImport.h"
